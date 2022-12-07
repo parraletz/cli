@@ -2,7 +2,7 @@ kueski cli
 
 Use:
 
-Use with parameters:
+ With parameters:
 
 ```
 ./cli.py salve vera mundi
